@@ -1,46 +1,8 @@
 # Privacy Policy
 
-__DATA WE COLLECT__
+Our Rexo bots are made with a DJS V14, namely Discord.js, We from the Rexo team strictly maintain player data. If we have got player data such as player ID, player server, etc., we don't do this to do bad things, but only use it for patrols, we are afraid that one of the players will violate the rules and we Rexo developers have sworn to protect & not spread other player's data. If players' data is scattered because our Pacific Studio developers are ready to bear the consequences, How we get your data: â€¢ We get your data only from, When you make a command / send money, â€¢ When you do a command there will be a message sent by a bot to a server and the message contains your data such as your server ID & ID & what command you are running this is all done to maintain server security and so that players don't violate the rules
 
-• Server Ids 
 
-   Reason: 
+Rexo kami dibuat dengan aplikasi DJS V14 yaitu Discord.js, Tim We from the Rexo secara ketat menjaga data pemain. Jika kami memiliki data pemain seperti ID pemain, server pemain, dll., Kami tidak melakukan ini untuk melakukan hal-hal buruk, tetapi hanya menggunakannya untuk patroli, kami takut salah satu pemain akan melanggar aturan dan kami pengembang Pacific Studio telah bersumpah untuk melindungi & tidak menyebarkan data pemain lain. Jika data pemain tersebar karena pengembang Rexo  kami siap menanggung konsekuensinya, Bagaimana kami mendapatkan data Anda: â€¢ Kami mendapatkan data Anda hanya dari, Ketika Anda membuat perintah / mengirim uang, â€¢ Ketika Anda melakukan perintah akan ada pesan yang dikirim oleh bot ke server dan pesan tersebut berisi data Anda seperti ID server Anda & ID & perintah apa yang Anda jalankan ini semua dilakukan untuk menjaga keamanan server dan agar pemain tidak melanggar aturan
 
-```md
-   i) Music Setup
-  ii) User Invitng our bot, so we collect the Server Ids like invite link.
-```
-
-<br><br>
-• User Ids
-
-  Reason:
-
-```md
-   i) Various User Based Settings
-  ii) Data Encrypting
-```
-
-<br><br>
-• Channel Ids
-
-   Reason:
-
-```md
-   i) Music Channel Setup
-```
-<br><br><br><br>
-
-__DO WE SHARE OUR COLLECTED DATA WITH ANYONE?__
-
-No, We do NOT share any of our user/server data, since we know how important privacy is for every one of us.
-
-<br><br><br><br>
-
-__DELETION OF YOUR DATA__
-
-=> There are 2 main options available to delete your data.
-
-• Contact RodX#8081 for delete your data.
-
-• Some of the settings already have an option to disable them/delete the stored data. If there is no option available, try the first option mentioned above.
+Made By Rexo Team
