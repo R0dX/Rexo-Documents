@@ -1,11 +1,10 @@
 
 # Terms and Service
 
-• Your age must be 13 or 13+ or legal consent age for your country.
+Unless otherwise specified, the terms of use detailed in this section apply generally when using this Website.
 
-• You must not abuse/misuse our database by spamming commands.
+Single or additional conditions of use or access may apply in specific scenarios and in such cases are additionally indicated within this document.
 
-• If you find any bug(s), directly contact to developers and tell the issue. Leaking/Spamming Bot bugs anyways, leads to permanent bot ban/blacklist.
+By using this Website, Users confirm to meet the following requirements:
 
-• You must follow/agree the discord's terms.
-You can find them on discord.com/terms.
+There are no restrictions for Users in terms of being Consumers or Business Users; Users must be older than 13; Minors may only use this Website under parental or adult supervision
